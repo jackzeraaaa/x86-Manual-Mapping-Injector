@@ -4,6 +4,7 @@
 int main()
 {
 	ManualMapper mapper;
+	//comments
 	char dllName[260];
 	std::cout << "->  Type dll name without \".dll\": ";
 	std::cin >> dllName;
